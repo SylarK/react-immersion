@@ -1,183 +1,184 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Developer",
+      "link": "https://www.youtube.com/channel/UCrCaisLmHp0sze4Zpe-9_qA/featured?view_as=subscriber",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Web Programming",
+        "url": "https://www.youtube.com/channel/UCrCaisLmHp0sze4Zpe-9_qA/featured?view_as=subscriber"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "React For Begginers ",
+          "url": "https://www.youtube.com/watch?v=DLX62G4lc44"
+        },      
+        {
+          "titulo": "React JS Tutorials for Begginers",
+          "url": "https://www.youtube.com/watch?v=2NLgQMs2hOw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Angular for Begginers",
+          "url": "https://www.youtube.com/watch?v=hXfigUyeHaY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Django Tutorials for Begginers",
+          "url": "https://www.youtube.com/watch?v=qgGIqRFvFFk"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Criando um carrousel do zero só com CSS ",
+          "url": "https://www.youtube.com/watch?v=SGwHpzgqzgk&t=75s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Os 10 reposítorios mais sensacionais do GitHub ",
+          "url": "https://www.youtube.com/watch?v=vGQSG_YnTOw"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Nova oportunidade para aprender",
+          "url": "https://www.youtube.com/watch?v=fj_CaYHTPVE"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Rainbow Six Siege",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Rainvow Six Siege, amazing fps game.",
+        "url": "https://www.ubisoft.com/en-gb/game/rainbow-six/siege"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Rainbow Six Siege - TOP FAILS & WINS",
+          "url": "https://www.youtube.com/watch?v=Rg2ANg0GIJU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Rainbow Six Siege - TOP FAILS & WINS",
+          "url": "https://www.youtube.com/watch?v=EGKNiYJ6SY8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Rainbow Six Siege - TOP FAILS & WINS",
+          "url": "https://www.youtube.com/watch?v=LdkefA7grT0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Rainbow Six Siege - TOP FAILS & WINS",
+          "url": "https://www.youtube.com/watch?v=G15DF9_BQdc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Rainbow Six Siege - TOP FAILS & WINS",
+          "url": "https://www.youtube.com/watch?v=k3AgiK79GeQ"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Coisa de Nerd",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Canal Coisa de Nerd",
+        "url": "https://www.youtube.com/user/coisadenerd/featured"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "5 Razões para não ir a Marte",
+          "url": "https://youtu.be/97Xwe0Ml83k"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Smart Home",
+          "url": "https://www.youtube.com/watch?v=zu2Ws0EpQ2E"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "O que é isso? Nerd Hi-Tech",
+          "url": "https://www.youtube.com/watch?v=rb08etM9cE0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Hora de por café!",
+          "url": "https://www.youtube.com/watch?v=XF8_t6s3kPw"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Filmes e Séries",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Sniper Americano",
+          "url": "https://www.youtube.com/watch?v=cO4hpl5d_Sc"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Blacklist",
+          "url": "https://www.youtube.com/watch?v=z-cTuId0rYs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "A Procura da Felicidade",
+          "url": "https://www.youtube.com/watch?v=6yc069E1gfc"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The Following",
+          "url": "https://www.youtube.com/watch?v=4swu4Ar-NoQ"
+        },
+        {
+          "titulo": "Dexter",
+          "url": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Culinária",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Masterchef",
+          "url": "https://www.youtube.com/watch?v=_is-04H1aXE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Bolo de Banana com Chocolate",
+          "url": "https://www.youtube.com/watch?v=2kSMf2E2bsk"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Ovos perfeitos",
+          "url": "https://www.youtube.com/watch?v=mEfutuiHoUM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Frango Crocante com Creme de Milho",
+          "url": "https://www.youtube.com/watch?v=g1sIKcRfnG8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Nuggets Cremosos",
+          "url": "https://www.youtube.com/watch?v=cDPdirjEhTI"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Basquete",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Melhores jogadas nos últimos tempos",
+        "url": "https://www.nba.com/"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "The professor 2v2 vs. Local Hoppers",
+          "url": "https://www.youtube.com/watch?v=L_qCJnqOPK8"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "The Best of the Professor",
+          "url": "https://www.youtube.com/watch?v=vglS7j0c4To&t=39s"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Best of Plays | 2019-20",
+          "url": "https://www.youtube.com/watch?v=mjjksztJKbw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "NBA's Top 100 Plays Of The Decade",
+          "url": "https://www.youtube.com/watch?v=t22flliJLTQ"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Most Amazing Plays In NBA Story",
+          "url": "https://www.youtube.com/watch?v=U-R_7BrPIVs"
         }
       ]
     }
